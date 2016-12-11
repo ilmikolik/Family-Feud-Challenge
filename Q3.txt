@@ -1,0 +1,1 @@
+multiplier=1&answercount=6&answer1=CATERER&answer1value=39&answer2=DJ&answer2value=22&answer3=PRIEST/MINISTER&answer3value=12&answer4=PHOTOGRAPHER&answer4value=12&answer5=LIMOUSINE&answer5value=4&answer6=TUXEDO&answer6value=3

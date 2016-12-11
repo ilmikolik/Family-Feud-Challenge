@@ -1,0 +1,1 @@
+multiplier=1&answercount=8&answer1=TEMPER&answer1value=27&answer2=MONEY&answer2value=15&answer3=WEIGHT&answer3value=10&answer4=APPETITE&answer4value=9&answer5=KIDS&answer5value=9&answer6=WEATHER&answer6value=8&answer7=SMOKING&answer7value=5&answer8=MOUTH&answer8value=4

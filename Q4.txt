@@ -1,0 +1,1 @@
+multiplier=2&answercount=6&answer1=NO+TURN+SIGNAL&answer1value=31&answer2=CUT+YOU+OFF&answer2value=30&answer3=DRIVE+UNDER+speed+limit&answer3value=13&answer4=FOLLOW+TOO+CLOSELY&answer4value=10&answer5=TALK+ON+PHONE&answer5value=7&answer6=SPEED&answer6value=4

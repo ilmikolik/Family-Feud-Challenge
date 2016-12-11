@@ -1,0 +1,1 @@
+multiplier=1&answercount=5&answer1=POPCORN&answer1value=32&answer2=BALLOON&answer2value=25&answer3=BUBBLE+GUM&answer3value=14&answer4=CHAMPAGNE+CORK&answer4value=6&answer5=FIRE+CRACKER&answer5value=6

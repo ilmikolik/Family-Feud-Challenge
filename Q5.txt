@@ -1,0 +1,1 @@
+multiplier=2&answercount=6&answer1=YARD&answer1value=23&answer2=PRISON&answer2value=19&answer3=PARK&answer3value=16&answer4=ZOO&answer4value=14&answer5=CEMETERY&answer5value=10&answer6=SWIMMING+POOL&answer6value=8

@@ -1,0 +1,1 @@
+multiplier=3&answercount=4&answer1=GOODBYE&answer1value=23&answer2=GOOD+MORNING&answer2value=18&answer3=GOOD+NIGHT&answer3value=16&answer4=GOOD+LUCK&answer4value=12

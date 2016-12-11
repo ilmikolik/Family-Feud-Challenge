@@ -1,0 +1,1 @@
+multiplier=3&answercount=3&answer1=CHAIR/STOOL&answer1value=40&answer2=TABLE&answer2value=36&answer3=PINOCCHIO&answer3value=12
